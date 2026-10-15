@@ -9,8 +9,8 @@ embeddings = OpenAIEmbeddings(
 )
 
 texts = [
-    "Hello this is Akarsh Vyas",
-    "Hello your name is YouTube",
+    "Hello this is Deepika Gautam",
+    "Hello your name is GenAI",
     "And you all are very beautiful"
 ]
 
